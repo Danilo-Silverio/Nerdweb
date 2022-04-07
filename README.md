@@ -11,7 +11,7 @@
 ### <strong>Participantes:</strong>
 - Desenvolvido por @Danilo-Silverio.
 
-### Link do Surge (Provisório):
+### Link do Surge:
 
 - https://nerdweb.surge.sh/
 
@@ -23,22 +23,30 @@
 
 ##
 
-- Tela Inicial
 <div>
-<img align="center"  height="550" width="750" src=""/>
+<img align="center"  height="400" width="750" src="https://user-images.githubusercontent.com/94642853/162269121-abf624d4-89d0-45c5-8d0b-97a529550ec3.png"/>
 </div>
 
 ##
 
-- Login
 <div>
-<img align="center"  height="550" width="750" src="https://user-images.githubusercontent.com/94642853/160842737-67458b50-9d34-4fde-b68f-bc54f7813863.png"/>
+<img align="center"  height="300" width="750" src="https://user-images.githubusercontent.com/94642853/162269482-4bcd2a7b-15a3-4676-8c83-c44ef64301f1.png"/>
+<img align="center"  height="300" width="750" src="https://user-images.githubusercontent.com/94642853/162270108-a4bbac38-721f-4e64-83e6-3fdb49437b29.png"/>
 </div>
 
 ##
 
-- Cadastro
 <div>
-<img align="center"  height="550" width="750" src="https://user-images.githubusercontent.com/94642853/161086571-2f378b65-7c6b-497d-9e6f-6e52e303e8a0.png"/>
+<img align="center"  height="400" width="750" src="https://user-images.githubusercontent.com/94642853/162270311-65572743-1485-4839-8743-9c9bffe048ee.png"/>
+<img align="center"  height="300" width="750" src="https://user-images.githubusercontent.com/94642853/162270825-f7abccd3-f4aa-451f-a3f9-e26011f3e5b5.png"/>
 </div>
+
+##
+
+<div>
+<img align="center"  height="300" width="750" src="https://user-images.githubusercontent.com/94642853/162271101-cc36f5aa-7556-4888-8755-37b2514c4e5d.png"/>
+<img align="center"  height="300" width="750" src="https://user-images.githubusercontent.com/94642853/162271366-48628523-ed40-4a10-8dcc-feb8216e11f0.png"/>
+</div>
+
+##
 
