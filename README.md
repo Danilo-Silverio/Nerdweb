@@ -8,9 +8,6 @@
 
 ##
 
-### <strong>Participantes:</strong>
-- Desenvolvido por @Danilo-Silverio.
-
 ### Link do Surge:
 
 - https://nerdweb.surge.sh/
