@@ -2,29 +2,22 @@
 
 ##
 
-### Informações do Projeto
-<p>Um protótipo de Landing Page </p>
+### <strong>Informações do Projeto</strong>
+<p>Desenvolvedor Front End Junior - Desafio Técnico</p>
+<p>Protótipo de Landing Page desenvolvido com as ferramentas HTML, CSS e Javascript.</p>
+
 ##
 
-### Participantes: 
+### <strong>Participantes:</strong>
 - Desenvolvido por @Danilo-Silverio.
 
 ### Link do Surge (Provisório):
 
-- https://muddled-toys.surge.sh/
+- https://nerdweb.surge.sh/
 
 
 ##
 
-### Funcionalidades do Projeto
-
-##
-
-### Finalizado:
-- Estrutura & Padrão de Design nas Páginas.
-- Navegação entre todas as páginas com Router/Coordinator.
-
-##
 
 ### Imagens
 
@@ -32,7 +25,7 @@
 
 - Tela Inicial
 <div>
-<img align="center"  height="550" width="750" src="https://user-images.githubusercontent.com/94642853/160842431-820f9962-a4ca-4e27-91ea-4920fcc5d544.png"/>
+<img align="center"  height="550" width="750" src=""/>
 </div>
 
 ##
